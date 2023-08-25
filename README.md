@@ -28,7 +28,13 @@ Keep guessing until you correctly identify the secret number. Once you guess the
 
 If you want to play again, you can click the "Play Again" button to reset the game and start from scratch.
 
+### Sneak Peek: A Glimpse of the Game
 
+Feel the excitement before you even start playing! Here's a sneak peek at the Guess the Number game:
+
+![image](https://github.com/vedantgour45/Guess-my-number-game/assets/113295244/67d584ea-e0a7-4f14-964c-8dd22a72250b)
+![image](https://github.com/vedantgour45/Guess-my-number-game/assets/113295244/05b27496-d874-4fdd-8f29-6d288ffcb161)
+![image](https://github.com/vedantgour45/Guess-my-number-game/assets/113295244/fd281771-1b2e-4f67-82ac-c373f0a542b1)
 
 ## Features
 
